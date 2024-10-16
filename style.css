@@ -214,7 +214,7 @@ nav {
     font-size: 2rem;
 }
 .icon:hover{
-    background-image: linear-gradient(to bottom right,red,blue)
+    background-image: linear-gradient(to bottom right,red,white)
 }
 .icon:hover .brands{
     color: azure;
